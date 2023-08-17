@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oF/EqQmy03H5gFY//KzbEiH51RIPMBx9fNHb4kQg4ysOJXp5TSLpaUuRLO8EAHrTNFCvaP6R/2eu3Lgh+lV/fw==",
+  "success": true,
+  "projectFilePath": "C:\\Hackathon\\MOVCUN\\MOVCUN\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2A4Q4LA\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\2A4Q4LA\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\2A4Q4LA\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
